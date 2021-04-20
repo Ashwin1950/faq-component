@@ -2,6 +2,7 @@
     
     <Movie/>
     <faq/>
+    
   
 </template>
 
