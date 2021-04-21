@@ -1,5 +1,8 @@
 <template>
   <section class="text-gray-600 body-font">
+    <div class="bg-blue-200">
+      <img class="h-20 sm:h-40 p-2 bg-gray-700" src="https://fanart.tv/fanart/movies/1402/hdmovielogo/the-pursuit-of-happyness-59fcc2049b722.png">
+    </div>
     <div class="container px-5 py-10 mx-auto flex flex-col">
       <div class="mb-10 font-bold text-4xl font-sans">
         The Pursuit of Happyness

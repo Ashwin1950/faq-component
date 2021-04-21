@@ -49,7 +49,7 @@
                 >.
               </span>
             </details>
-            <details>
+            <details class="mb-4">
               <summary class="font-semibold  bg-gray-200 rounded-md py-2 px-1">
                 Are any of the co-stars related?
               </summary>
@@ -66,6 +66,23 @@
                   >Christopher Gardner and his son Christopher Jarrett Medina
                   Gardner</b
                 >.
+              </span>
+            </details>
+            <details>
+              <summary class="font-semibold  bg-gray-200 rounded-md py-2 px-1">
+                Did the wife of Gardner ever return?
+              </summary>
+
+              <span class="mt-2 ml-4">
+                <b>No</b>, she didn't return. <br>I think it was suggested from the plot
+                that there came a point of <b>no-return</b> where she couldn't take it
+                anymore and moved on. She had also left his son behind with
+                Gardner and that was quite surprising as she had a job unlike
+                her husband. She knew it very well that she was in a position to
+                give their son a better life as compared to her husband at that
+                moment of time. It was like leaving everything associated with
+                him whether it was her own son. She <b>moved on with her life</b> and
+                Gardner has also accepted that fact.
               </span>
             </details>
           </div>
@@ -106,11 +123,27 @@
               </summary>
 
               <span class="px-1 py-4 ml-4">
-                Yes, the real Chris Gardner had a <b>short appearance</b> in the movie.
-                At the <b>very end</b> of the movie, the real Chris Gardner walks
-                confidently past Will Smith and Jaden. Will Smith
+                Yes, the real Chris Gardner had a <b>short appearance</b> in the
+                movie. At the <b>very end</b> of the movie, the real Chris
+                Gardner walks confidently past Will Smith and Jaden. Will Smith
                 briefly looks back and smiles at him as he and his son leisurely
                 stroll around the streets of San Francisco.
+              </span>
+            </details>
+            <details class="mb-4 ml-3 mr-3">
+              <summary class="font-semibold  bg-gray-200 rounded-md py-2 px-1">
+                What lessons can we learn from this movie?
+              </summary>
+
+              <span class="px-1 py-4 ml-4">
+                This movie has taught me many life lessons. Some are:-
+                <ul>
+                  <li>Believe in yourself even if others don't believe in you.</li>
+                  <li>Set-backs should not stop you from rising.</li>
+                  <li>Never give up and keep trying.</li>
+                  <li>Importance of RELATIONSHIPS. A beautiful father and son relationship is shown in the movie.</li>
+                  <li>DREAM.</li>
+                </ul>
               </span>
             </details>
           </div>
