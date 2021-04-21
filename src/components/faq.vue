@@ -49,7 +49,7 @@
                 >.
               </span>
             </details>
-            <details class="mb-4">
+            <details>
               <summary class="font-semibold  bg-gray-200 rounded-md py-2 px-1">
                 Are any of the co-stars related?
               </summary>
@@ -70,7 +70,7 @@
             </details>
           </div>
           <div class="w-full lg:w-1/2 px-1 py-2">
-            <details class="mb-4">
+            <details class="mb-4 ml-3 mr-3">
               <summary class="font-semibold  bg-gray-200 rounded-md py-2 px-1">
                 How did Chris Gardner become so <b>rich</b>?
               </summary>
@@ -90,7 +90,7 @@
                 wasn’t associated with the company in any way though.
               </span>
             </details>
-            <details class="mb-4">
+            <details class="mb-4 ml-3 mr-3">
               <summary class="font-semibold  bg-gray-200 rounded-md py-2 px-1">
                 Was there any <b>Oscar</b> nomination?
               </summary>
@@ -100,7 +100,7 @@
                 <b>Golden Globe for Best Actor</b>.
               </span>
             </details>
-            <details class="mb-4">
+            <details class="mb-4 ml-3 mr-3">
               <summary class="font-semibold  bg-gray-200 rounded-md py-2 px-1">
                 Did the real Chris Gardner appear in the movie?
               </summary>
