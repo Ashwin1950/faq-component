@@ -1,10 +1,18 @@
 <template>
   <section class="text-gray-600 body-font">
     <div class="bg-blue-200">
-      <img class="h-20 sm:h-40 p-2 bg-gray-700" src="https://fanart.tv/fanart/movies/1402/hdmovielogo/the-pursuit-of-happyness-59fcc2049b722.png">
+      <img
+        class="h-20 sm:h-40 p-2 bg-gray-700"
+        src="https://fanart.tv/fanart/movies/1402/hdmovielogo/the-pursuit-of-happyness-59fcc2049b722.png"
+      />
+      <div
+          class="w-10 h-5 text-xs sm:w-20 sm:h-10 sm:p-2 sm:text-lg text-center rounded-md bg-gray-700 text-white float-right"
+        >
+          <a href="#faq">FAQs</a>
+        </div>
     </div>
     <div class="container px-5 py-10 mx-auto flex flex-col">
-      <div class="mb-10 font-bold text-4xl font-sans">
+      <div class="mb-10 font-bold text-4xl font-sans position-absolute">
         The Pursuit of Happyness
         <h2 class="font-small font-mono title-font mt-4 text-gray-900 text-sm">
           PG-13 | 1h 57min | Biography, Drama | 15 December 2006 (USA)
@@ -23,10 +31,6 @@
             <div
               class="rounded-full inline-flex items-center justify-center bg-gray-200 text-gray-400"
             >
-              <!-- <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-10 h-10" viewBox="0 0 24 24">
-              <path d="M20 21v-2a4 4 0 00-4-4H8a4 4 0 00-4 4v2"></path>
-              <circle cx="12" cy="7" r="4"></circle>
-            </svg> -->
               <img
                 class="w-20 h-20 rounded-full object-cover"
                 src="https://d2e111jq13me73.cloudfront.net/sites/default/files/styles/share_link_image_large/public/screenshots/csm-movie/the-pursuit-of-happyness-ss1.jpg?itok=EWqP05Qm"
@@ -55,7 +59,7 @@
             class="sm:w-2/3 sm:pl-8 sm:py-8 sm:border-l border-gray-200 sm:border-t-0 border-t mt-4 pt-4 sm:mt-0 text-center sm:text-left"
           >
             <h3 class="text-2xl mb-2 font-sans font-bold">Storyline</h3>
-            <p class="leading-relaxed text-lg mb-4">
+            <p class="leading-relaxed text-lg mb-4 text-justify">
               Based on a true story about a man named Christopher Gardner.
               Gardner has invested heavily in a device known as a "bone density
               scanner". He feels like he has it made selling these devices.
@@ -276,6 +280,216 @@
       </div>
     </div>
   </section>
+  <div>
+    <h1 class="font-bold text-3xl text-gray-700 mb-10">
+      THE MESSAGE BEHIND "THE PURSUIT OF HAPPINESS"
+    </h1>
+  </div>
+  <section class="text-gray-600 body-font overflow-hidden bg-blue-200">
+    <div class="container px-5 py-24 mx-auto">
+      <div class="lg:w-4/5 mx-auto flex flex-wrap">
+        <div class="lg:w-1/2 w-full">
+          <iframe
+            width="500"
+            height="300"
+            src="https://www.youtube.com/embed/WKRYY6T6Q6k"
+            title="YouTube video player"
+            frameborder="0"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+            allowfullscreen
+          ></iframe>
+        </div>
+        <div class="lg:w-1/2 w-full lg:pl-10 lg:py-6 mt-6 lg:mt-0">
+          <h1 class="text-gray-900 text-3xl title-font font-medium mb-1 ">
+            Admiring a Car
+          </h1>
+          <p class="leading-relaxed text-left">
+            On his way to his usual sales calls, he sees a man who pulls up in
+            an expensive sports car. The man heads to his office, leaving Chris
+            amidst a sea of smiling stock brokers, wondering to himself: “They
+            all look so damn happy to me. Why couldn’t I look like that?” That
+            thinking is coming from a person who has not gone to a college! And
+            we, who have all the necessities of life (luxuries too, for many)
+            often get satisfied with as little as a Facebook like. I am not
+            saying we need to be greedy, but we must not let mediocrity become
+            integral to all parts of our life.
+          </p>
+        </div>
+      </div>
+    </div>
+  </section>
+  <section class="text-gray-600 body-font overflow-hidden bg-gray-300">
+    <div class="container px-5 py-24 mx-auto">
+      <div class="lg:w-4/5 mx-auto flex flex-wrap">
+        <div class="lg:w-1/2 w-full lg:pr-10 lg:py-6 mt-6 lg:mt-0">
+          <h1 class="text-gray-900 text-3xl title-font font-medium mb-1 ">
+            Rubik's Cube
+          </h1>
+          <p class="leading-relaxed text-left">
+            We see that Chris Gardner is now thinking beyond sales. He wants to
+            be a stockbroker. But as mentioned earlier, he doesn’t even have a
+            college education. So, what can he do to fulfill his new-found
+            dream? Chris waits multiple times to have the opportunity to talk to
+            Jay who is with the Resource Head of Dean Witter, a stockbroking
+            firm. Chris had seen a flyer about an internship offered by the
+            firm, whereby he could become a stockbroker. He knew his application
+            would not even be considered so he wanted to personally convince the
+            man about his potential.
+          </p>
+        </div>
+        <div class="lg:w-1/2 w-full">
+          <iframe
+            width="500"
+            height="300"
+            src="https://www.youtube.com/embed/Ogk0D19jsMs"
+            title="YouTube video player"
+            frameborder="0"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+            allowfullscreen
+          ></iframe>
+        </div>
+      </div>
+    </div>
+  </section>
+  <section class="text-gray-600 body-font overflow-hidden bg-blue-200">
+    <div class="container px-5 py-24 mx-auto">
+      <div class="lg:w-4/5 mx-auto flex flex-wrap">
+        <div class="lg:w-1/2 w-full">
+          <iframe
+            width="500"
+            height="300"
+            src="https://www.youtube.com/embed/St7vgJko8Ug"
+            title="YouTube video player"
+            frameborder="0"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+            allowfullscreen
+          ></iframe>
+        </div>
+        <div class="lg:w-1/2 w-full lg:pl-10 lg:py-6 mt-6 lg:mt-0">
+          <h1 class="text-gray-900 text-3xl title-font font-medium mb-1 ">
+            Arriving at the Interview
+          </h1>
+          <p class="leading-relaxed text-left">
+            Now Chris finally goes to the interview for the internship but
+            arrives in sweatpants and a wife beater, ideally one would be all
+            suited up for an occasion like this. The night before this
+            interview, Chris’ wife had left him, frustrated by their financial
+            problems. Add to that the fact that the landlord wanted to throw
+            Chris out but had agreed to let him stay for a week more if Chris
+            painted the house, which was what he was doing when the police
+            knocked on his door and arrested him for not paying numerous parking
+            tickets. He was only released the next morning. And he ran to the
+            office for the interview.
+          </p>
+        </div>
+      </div>
+    </div>
+  </section>
+  <section class="text-gray-600 body-font overflow-hidden bg-gray-300">
+    <div class="container px-5 py-24 mx-auto">
+      <div class="lg:w-4/5 mx-auto flex flex-wrap">
+        <div class="lg:w-1/2 w-full lg:pr-10 lg:py-6 mt-6 lg:mt-0">
+          <h1 class="text-gray-900 text-3xl title-font font-medium mb-1 ">
+            Htting the Rock Bottom
+          </h1>
+          <p class="leading-relaxed text-left">
+            Chris just became homeless has now where to go and nowhere to sleep,
+            has his son with him and you can just see his freaking out, his son
+            tells him that the machine isn’t a time machine to which Chris
+            responds that it is. He uses their imagination to travel to a time
+            where dinosaurs still roam the earth, and they escape to a cave for
+            safety. That cave was a public bathroom where they spend the night,
+            that night his son slept in his arms, Chris was covering his ears so
+            he didn’t hear the people trying to come in and with one of his legs
+            secures the door, so they couldn’t.
+          </p>
+        </div>
+        <div class="lg:w-1/2 w-full">
+          <iframe
+            width="500"
+            height="300"
+            src="https://www.youtube.com/embed/o3Zn1lyujwQ"
+            title="YouTube video player"
+            frameborder="0"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+            allowfullscreen
+          ></iframe>
+        </div>
+      </div>
+    </div>
+  </section>
+  <section class="text-gray-600 body-font overflow-hidden bg-blue-200">
+    <div class="container px-5 py-24 mx-auto">
+      <div class="lg:w-4/5 mx-auto flex flex-wrap">
+        <div class="lg:w-1/2 w-full">
+          <iframe
+            width="500"
+            height="300"
+            src="https://www.youtube.com/embed/OdhOqSWe5Qw"
+            title="YouTube video player"
+            frameborder="0"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+            allowfullscreen
+          ></iframe>
+        </div>
+        <div class="lg:w-1/2 w-full lg:pl-10 lg:py-6 mt-6 lg:mt-0">
+          <h1 class="text-gray-900 text-3xl title-font font-medium mb-1 ">
+            Basketball and Dream
+          </h1>
+          <p class="leading-relaxed text-left">
+            This is probably the best scene in the movie. It’s a Saturday and
+            Chris takes his son to play basketball. He tells his son, that there
+            will be things in which he can excel but basketball is not one of
+            them. Hearing this, his son is disappointed and starts packing the
+            ball. Chris realizes his mistake and says the following words which
+            become the soul of the movie:
+            <b
+              >“Don’t ever let someone tell you, you can’t do something. Not
+              even me. You got a dream, you got to protect it. People can’t do
+              something themselves, they want to tell you, you can’t do it. You
+              want something, go get it. Period. All right?”</b
+            >
+          </p>
+        </div>
+      </div>
+    </div>
+  </section>
+  <section class="text-gray-600 body-font overflow-hidden bg-gray-300">
+    <div class="container px-5 py-24 mx-auto">
+      <div class="lg:w-4/5 mx-auto flex flex-wrap">
+        <div class="lg:w-1/2 w-full lg:pr-10 lg:py-6 mt-6 lg:mt-0">
+          <h1 class="text-gray-900 text-3xl title-font font-medium mb-1 ">
+            This is called Happyness
+          </h1>
+          <p class="leading-relaxed text-left">
+            Even at the lowest point of his life, he maintained the
+            illusion that he was just as much a viable candidate as the other
+            interns who had homes and all the luxuries of modern-day
+            businessmen. He never stopped doubting himself, and confidence is a
+            major part of the recipe of success. HAPPYNESS is not money, but
+            happiness is seeing your life stable, your child happy, and your
+            future bright. Sometimes we need money to make us happy, but it’s
+            not the money itself, but what the money brings us, and no one is
+            just going to bring us money but you have to go out and achieve it,
+            and pursue your own HAPPYNESS.
+          </p>
+        </div>
+        <div class="lg:w-1/2 w-full">
+          <iframe
+            width="500"
+            height="300"
+            src="https://www.youtube.com/embed/6Q3uh8TM30U"
+            title="YouTube video player"
+            frameborder="0"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+            allowfullscreen
+          ></iframe>
+        </div>
+      </div>
+    </div>
+  </section>
+  
+  <div id="faq"></div>
 </template>
 
 <script>
