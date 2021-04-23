@@ -288,9 +288,9 @@
   <section class="text-gray-600 body-font overflow-hidden bg-blue-200">
     <div class="container px-5 py-24 mx-auto">
       <div class="lg:w-4/5 mx-auto flex flex-wrap">
-        <div class="lg:w-1/2 w-full">
+        <div class="lg:w-1/2 w-full text-center">
           <iframe
-            width="500"
+            width="445"
             height="300"
             src="https://www.youtube.com/embed/WKRYY6T6Q6k"
             title="YouTube video player"
@@ -303,7 +303,7 @@
           <h1 class="text-gray-900 text-3xl title-font font-medium mb-1 ">
             Admiring a Car
           </h1>
-          <p class="leading-relaxed text-left">
+          <p class="leading-relaxed text-justify">
             On his way to his usual sales calls, he sees a man who pulls up in
             an expensive sports car. The man heads to his office, leaving Chris
             amidst a sea of smiling stock brokers, wondering to himself: “They
@@ -325,7 +325,7 @@
           <h1 class="text-gray-900 text-3xl title-font font-medium mb-1 ">
             Rubik's Cube
           </h1>
-          <p class="leading-relaxed text-left">
+          <p class="leading-relaxed text-justify">
             We see that Chris Gardner is now thinking beyond sales. He wants to
             be a stockbroker. But as mentioned earlier, he doesn’t even have a
             college education. So, what can he do to fulfill his new-found
@@ -337,9 +337,9 @@
             man about his potential.
           </p>
         </div>
-        <div class="lg:w-1/2 w-full">
+        <div class="lg:w-1/2 w-full text-center lg:pl-10 lg:py-6 mt-6 lg:mt-0">
           <iframe
-            width="500"
+            width="445"
             height="300"
             src="https://www.youtube.com/embed/Ogk0D19jsMs"
             title="YouTube video player"
@@ -354,9 +354,9 @@
   <section class="text-gray-600 body-font overflow-hidden bg-blue-200">
     <div class="container px-5 py-24 mx-auto">
       <div class="lg:w-4/5 mx-auto flex flex-wrap">
-        <div class="lg:w-1/2 w-full">
+        <div class="lg:w-1/2 w-full text-center">
           <iframe
-            width="500"
+            width="445"
             height="300"
             src="https://www.youtube.com/embed/St7vgJko8Ug"
             title="YouTube video player"
@@ -369,7 +369,7 @@
           <h1 class="text-gray-900 text-3xl title-font font-medium mb-1 ">
             Arriving at the Interview
           </h1>
-          <p class="leading-relaxed text-left">
+          <p class="leading-relaxed text-justify">
             Now Chris finally goes to the interview for the internship but
             arrives in sweatpants and a wife beater, ideally one would be all
             suited up for an occasion like this. The night before this
@@ -392,7 +392,7 @@
           <h1 class="text-gray-900 text-3xl title-font font-medium mb-1 ">
             Htting the Rock Bottom
           </h1>
-          <p class="leading-relaxed text-left">
+          <p class="leading-relaxed text-justify">
             Chris just became homeless has now where to go and nowhere to sleep,
             has his son with him and you can just see his freaking out, his son
             tells him that the machine isn’t a time machine to which Chris
@@ -404,9 +404,9 @@
             secures the door, so they couldn’t.
           </p>
         </div>
-        <div class="lg:w-1/2 w-full">
+        <div class="lg:w-1/2 w-full text-center lg:pl-10 lg:py-6 mt-6 lg:mt-0">
           <iframe
-            width="500"
+            width="445"
             height="300"
             src="https://www.youtube.com/embed/o3Zn1lyujwQ"
             title="YouTube video player"
@@ -421,9 +421,9 @@
   <section class="text-gray-600 body-font overflow-hidden bg-blue-200">
     <div class="container px-5 py-24 mx-auto">
       <div class="lg:w-4/5 mx-auto flex flex-wrap">
-        <div class="lg:w-1/2 w-full">
+        <div class="lg:w-1/2 w-full text-center">
           <iframe
-            width="500"
+            width="445"
             height="300"
             src="https://www.youtube.com/embed/OdhOqSWe5Qw"
             title="YouTube video player"
@@ -436,7 +436,7 @@
           <h1 class="text-gray-900 text-3xl title-font font-medium mb-1 ">
             Basketball and Dream
           </h1>
-          <p class="leading-relaxed text-left">
+          <p class="leading-relaxed text-justify">
             This is probably the best scene in the movie. It’s a Saturday and
             Chris takes his son to play basketball. He tells his son, that there
             will be things in which he can excel but basketball is not one of
@@ -461,7 +461,7 @@
           <h1 class="text-gray-900 text-3xl title-font font-medium mb-1 ">
             This is called Happyness
           </h1>
-          <p class="leading-relaxed text-left">
+          <p class="leading-relaxed text-justify">
             Even at the lowest point of his life, he maintained the
             illusion that he was just as much a viable candidate as the other
             interns who had homes and all the luxuries of modern-day
@@ -474,9 +474,9 @@
             and pursue your own HAPPYNESS.
           </p>
         </div>
-        <div class="lg:w-1/2 w-full">
+        <div class="lg:w-1/2 w-full text-center lg:pl-10 lg:py-6 mt-6 lg:mt-0">
           <iframe
-            width="500"
+            width="445"
             height="300"
             src="https://www.youtube.com/embed/6Q3uh8TM30U"
             title="YouTube video player"
